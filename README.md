@@ -1,2 +1,2 @@
 # mysql_arch
-mysql architecture in single,master-slave,cluster config and performance compare
+mysql三种架构（master，master-slave，cluster）的搭建方式及参数调优并通过tpcc进行不同架构性能对比
